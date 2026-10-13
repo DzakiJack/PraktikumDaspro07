@@ -30,15 +30,7 @@ public class StudiKasus207 {
                 status = 0;
              } 
 
-        if (kegiatan.equalsIgnoreCase("PKM")) {
-             if (dokumen == 4 && juara == 0) {
-                 status = 1;
-         } else {
-             status = 0;
-         }
-        }
-
-         
+        
         }
     }
 }
