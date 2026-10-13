@@ -30,7 +30,6 @@ public class StudiKasus207 {
                 status = 0;
              } 
 
-        
         }
     }
 }
